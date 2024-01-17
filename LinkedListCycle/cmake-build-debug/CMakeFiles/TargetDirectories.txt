@@ -1,3 +1,0 @@
-/home/amz/CLionProjects/LinkedListCycle/cmake-build-debug/CMakeFiles/LinkedListCycle.dir
-/home/amz/CLionProjects/LinkedListCycle/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/amz/CLionProjects/LinkedListCycle/cmake-build-debug/CMakeFiles/rebuild_cache.dir
